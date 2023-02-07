@@ -1,0 +1,11 @@
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\bin\Debug\PesquisaAtendimento.exe.config
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\bin\Debug\PesquisaAtendimento.exe
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\bin\Debug\PesquisaAtendimento.pdb
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\obj\Debug\PesquisaAtendimento.csproj.AssemblyReference.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\obj\Debug\PesquisaAtendimento.csproj.SuggestedBindingRedirects.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\obj\Debug\PesquisaAtendimento.Form1.resources
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\obj\Debug\PesquisaAtendimento.Properties.Resources.resources
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\obj\Debug\PesquisaAtendimento.csproj.GenerateResource.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\obj\Debug\PesquisaAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\obj\Debug\PesquisaAtendimento.exe
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\PesquisaAtendimento\obj\Debug\PesquisaAtendimento.pdb
